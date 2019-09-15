@@ -1,3 +1,4 @@
+worker: python twitter_scrapper.py
 bot.sh
 969645673:AAFf1bFZ8yQesai0LRzcbLEcBzPLvFDacM0
 .DS_Store
